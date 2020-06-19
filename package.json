@@ -1,6 +1,6 @@
 {
   "name": "briebug-cordova-plugin-themeablebrowser",
-  "version": "0.4.1",
+  "version": "0.5.1",
   "description": "Cordova ThemeableBrowser Plugin",
   "cordova": {
     "id": "briebug-cordova-plugin-themeablebrowser",
