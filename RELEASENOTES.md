@@ -21,6 +21,11 @@
 Release Notes
 =============
 
+0.5.1
+------
+
+Bug fix: remove inappbrowser package from Java code to fix build issue
+
 0.2.17
 ------
 
